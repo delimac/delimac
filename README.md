@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Chris 
+### 👋 Hi there, I’m Chris 
 
 <!--
 **delimac/delimac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
