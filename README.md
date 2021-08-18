@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
 - 👤 I'm an aspiring Front-End Engineer
 - 🔭 I’m currently working on my portfolio. In the mean time, you can visit my [About page](https://delimac.github.io)
 - 🌱 I’m currently learning Advanced JS, React and Design Systems
-- 📫 How and whereelse to reach me: [Email](mailto:delimac@hey.com), [Instagram](https://instagram.com/delimac_), [Twitter](https://twitter.com/delimac)
+- 📫 How and where else to reach me: [Email](mailto:delimac@hey.com), [Instagram](https://instagram.com/delimac_), [Twitter](https://twitter.com/delimac)
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
