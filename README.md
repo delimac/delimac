@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 👤 I'm an aspiring Front-End Engineer
+- 👤 I’m an aspiring Front-End Engineer
+- 🎓 I’m a BA Multimedia Arts graduate and have done Full Stack Web Dev't bootcamp at [Le Wagon](https://www.lewagon.com)
 - 🔭 I’m currently working on my portfolio. In the mean time, you can visit my [About page](https://delimac.github.io)
 - 🌱 I’m currently learning Advanced JS, React and Design Systems
 - 📫 How and where else to reach me: [Email](mailto:delimac@hey.com), [Instagram](https://instagram.com/delimac_), [Twitter](https://twitter.com/delimac)
