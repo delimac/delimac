@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 👤 I’m a Web Developer at Section Interactive, a digital agency in Singapore [Section](https://wearesection.com/)
+- 👤 I’m a Web Developer at [Section](https://wearesection.com/), a digital agency in Singapore
 - 💻 I’m currently seconded as a Frontend Developer at [Meta](https://about.facebook.com/meta/) at their Singapore HQ  
 - 🎓 I’m a BA Multimedia Arts graduate and have done Full Stack Web Dev't bootcamp at [Le Wagon](https://www.lewagon.com)
 - 🔭 I’m currently working on my portfolio. In the mean time, you can visit my [About page](https://delimac.github.io)
